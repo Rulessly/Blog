@@ -30,3 +30,11 @@ mybatis-plus:
       logic-delete-value: 1
       logic-not-delete-value: 0
       id-type: auto
+
+qcloud:
+  secretId: AKIDXwG0d2GH98vEQXXM2WzPhpulcHitvwzq
+  secretKey: lIaeaHl6D6mFUVIsFOL7f1BuX0HLDwiP
+  region: ap-guangzhou
+  bucketName: xyxiaobiao-1314787675
+  url: https://xyxiaobiao-1314787675.cos.ap-guangzhou.myqcloud.com
+  prefix: /img/

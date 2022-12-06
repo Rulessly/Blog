@@ -1,4 +1,6 @@
+com\blog\controller\UserController.class
 com\blog\filter\JwtAuthenticationTokenFilter.class
+com\blog\controller\CommentController.class
 com\blog\controller\BlogLoginController.class
 com\blog\BlogApplication.class
 com\blog\controller\CategoryController.class
